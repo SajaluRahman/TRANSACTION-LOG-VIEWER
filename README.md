@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/975b23b0-34ec-485c-aff0-5f52a1595eeb) #Transaction Dashboard
+ # Transaction Dashboard
  
 A modern, responsive transaction management dashboard built with React.js, Tailwind CSS, and Vite.
 It features dynamic transaction listing with filtering, searching, column customization, theme toggling (light/dark), pagination, and CSV export.
