@@ -34,12 +34,12 @@ React Date Picker (for date range selection)
 FileSaver.js & Papaparse (for CSV export)
 
 ## 📥 Installation & Setup
-1️⃣ Clone the repository/
+### 1️⃣ Clone the repository
 git clone https://github.com/yourusername/transaction-dashboard.git
 cd transaction-dashboard
 
-2️⃣ Install dependencies/
+### 2️⃣ Install dependencies
 npm install
 
-3️⃣ Run the app/
+### 3️⃣ Run the app
 npm run dev
