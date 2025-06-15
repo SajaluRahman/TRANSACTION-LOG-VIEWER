@@ -3,11 +3,11 @@
 A modern, responsive transaction management dashboard built with React.js, Tailwind CSS, and Vite.
 It features dynamic transaction listing with filtering, searching, column customization, theme toggling (light/dark), pagination, and CSV export.
 
-📸 Demo
+## 📸 Demo
 ![image](https://github.com/user-attachments/assets/6eae8b98-ece8-44fd-a3ea-0e4bb36232de)
 
 
-🚀 Features
+## 🚀 Features
 📋 View transactions in a clean, paginated table
 
 🔍 Filter by date, status, and category
@@ -22,7 +22,7 @@ It features dynamic transaction listing with filtering, searching, column custom
 
 📖 Expandable rows for transaction details
 
-📦 Tech Stack
+## 📦 Tech Stack
 React.js
 
 Tailwind CSS
@@ -33,7 +33,7 @@ React Date Picker (for date range selection)
 
 FileSaver.js & Papaparse (for CSV export)
 
-📥 Installation & Setup
+## 📥 Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/yourusername/transaction-dashboard.git
 cd transaction-dashboard
