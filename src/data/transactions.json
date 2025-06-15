@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2025-06-01",
+    "transactionId": "TXN001",
+    "description": "Payment to John Doe",
+    "amount": 150.0,
+    "status": "Success",
+    "category": "Payment",
+    "details": "Paid via bank transfer, reference #12345"
+  },
+  {
+    "date": "2025-06-03",
+    "transactionId": "TXN002",
+    "description": "Refund from Store",
+    "amount": -20.0,
+    "status": "Success",
+    "category": "Refund",
+    "details": "Refund for returned item"
+  },
+  {
+    "date": "2025-06-04",
+    "transactionId": "TXN003",
+    "description": "Transfer to Savings",
+    "amount": 200.0,
+    "status": "Pending",
+    "category": "Transfer",
+    "details": "Monthly savings deposit"
+  },
+  {
+    "date": "2025-06-05",
+    "transactionId": "TXN004",
+    "description": "Utility Bill Payment",
+    "amount": 75.5,
+    "status": "Success",
+    "category": "Bills",
+    "details": "Electricity and water bill"
+  },
+  {
+    "date": "2025-06-06",
+    "transactionId": "TXN005",
+    "description": "Grocery Shopping",
+    "amount": 130.75,
+    "status": "Failed",
+    "category": "Shopping",
+    "details": "Insufficient balance"
+  },
+  {
+    "date": "2025-06-07",
+    "transactionId": "TXN006",
+    "description": "Online Course Payment",
+    "amount": 49.99,
+    "status": "Success",
+    "category": "Education",
+    "details": "React.js Mastery Course"
+  },
+  {
+    "date": "2025-06-08",
+    "transactionId": "TXN007",
+    "description": "Salary Credit",
+    "amount": 1800.0,
+    "status": "Success",
+    "category": "Income",
+    "details": "June 2025 salary credited"
+  },
+  {
+    "date": "2025-06-09",
+    "transactionId": "TXN008",
+    "description": "Restaurant Bill",
+    "amount": 55.25,
+    "status": "Success",
+    "category": "Food",
+    "details": "Dinner with friends"
+  },
+  {
+    "date": "2025-06-10",
+    "transactionId": "TXN009",
+    "description": "Movie Tickets",
+    "amount": 30.0,
+    "status": "Pending",
+    "category": "Entertainment",
+    "details": "Weekend show at Cineplex"
+  },
+  {
+    "date": "2025-06-11",
+    "transactionId": "TXN010",
+    "description": "Loan EMI",
+    "amount": 300.0,
+    "status": "Success",
+    "category": "Loans",
+    "details": "Personal loan installment"
+  }
+]
